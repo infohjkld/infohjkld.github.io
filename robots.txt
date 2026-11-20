@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://infohjkld.github.io/sitemap.xml
